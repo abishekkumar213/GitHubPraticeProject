@@ -6,5 +6,6 @@ static int x;
 public static void main(String[] args) {
 	x = i+j;
 	System.out.println(x);
+	System.out.println("hello");
 }
 }
